@@ -1,5 +1,10 @@
-.navbar-nav{
-   background-color: blue;
-   
+.navbar{
+   background-color: rgb(151, 151, 212);
+   color: black;
+   text-align: center;
+   height: 40px;
 }
-
+span{
+   margin: 15px;
+   color: white;
+}
